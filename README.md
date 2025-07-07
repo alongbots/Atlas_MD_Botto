@@ -12,6 +12,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </h4>
 
 <h4 align="center">This is a maintained version of Atlas MD. I am just a maintainer responsible for maintaining this script</h4>
+<h4 align="center">You can contact me if you face any error</h4>
 
 <br>
 
